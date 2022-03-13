@@ -1,1 +1,1 @@
-# cryptology
+# kryptolrugy
